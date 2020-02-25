@@ -1,0 +1,16 @@
+
+body {
+    background-color: darkgrey;
+}
+
+footer {
+
+    font-family: "Droid Sans Mono";
+    font-optical-sizing: auto;
+    background-color: dimgrey;
+}
+
+header {
+    background-color: dimgrey;
+    font-size: large;
+}
