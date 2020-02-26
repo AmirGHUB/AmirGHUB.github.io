@@ -1,13 +1,18 @@
 
-body header div h2 {
+ header h2 {
     color: rgb(162,169,0);
+    text-align: center;
+    text-decoration: underline;
+     font-size: 24pt;
 }
 body header div {
 
 }
-body h2 {
+h2 {
    color: rgb(162,169,0);
     background-color: rgb(240,240,240);
+    font-size: 18pt;
+    text-decoration: underline;
 }
 body ul {
     list-style-image: url("img/pie_bullet.png");
@@ -15,7 +20,12 @@ body ul {
 .YC {
     background-color: rgb(253,255,159);
     background-size: initial;
+    margin: 10px;
+    font-style: italic;
 }
 body a {
     color: rgb(162,169,0);
+}
+.strike {
+    text-decoration: line-through;
 }
