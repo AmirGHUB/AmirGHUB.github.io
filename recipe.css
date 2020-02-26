@@ -2,14 +2,12 @@
 body header div h2 {
    horiz-align: center;
     color: rgb(162,169,0);
-    text-underline-color: rgb(162,169,0);
 }
 body header div {
-    float: start;
+
 }
 body h2 {
    color: rgb(162,169,0);
-    text-underline: rgb(162,169,0);
     background-color: rgb(240,240,240);
 }
 body ul {
