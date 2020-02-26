@@ -2,16 +2,35 @@
 body {
     background-color: darkgrey;
 }
+header h1 {
+    color: white;
+}
 
 footer {
 
+    float: left;
     font-family: "Droid Sans Mono";
     font-optical-sizing: auto;
-    background-color: dimgrey;
+    background-color: rgb(103,157,211);
+    width: 100%;
+    height: 12vh;
 }
 
 header {
-
-    background-color: dimgrey;
+    height: 15vh;
+    background-image: url("img/h1.png");
+    float: top;
     font-size: large;
+}
+header div img {
+    border-radius: 50%;
+}
+#menu {
+    float: left;
+}
+#image {
+    float: left;
+}
+img {
+
 }

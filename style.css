@@ -4,6 +4,10 @@ body {
 header span {
     color: yellow;
 }
+header div {
+    width: 25%;
+   float: right;
+}
 footer h2 {
     color: aquamarine;
 }
@@ -20,9 +24,13 @@ body ul {
      color: white;
 }
 body ol {
+    list-style: revert;
     color: white;
 }
 body {
     font-family: "Arial Black";
     color: white;
+}
+link :visited {
+    color: red;
 }
