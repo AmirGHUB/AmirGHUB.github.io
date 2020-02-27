@@ -1,0 +1,136 @@
+.topimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: fit-content;
+    width: fit-content;
+}
+.poster {
+    width: 250pt;
+    float: right;
+}
+.posterPic {
+    width: 250pt;
+    border-top-right-radius: 10pt;
+}
+
+.overview {
+    height: content-box;
+}
+.topMain {
+    margin-top: -5pt;
+    background-image: url("img/Homework4/bannerbg.png");
+    background-repeat: repeat;
+    height: 50pt;
+    margin-left: -7pt;
+    margin-right: -7pt;
+
+}
+
+body h1 {
+    text-align: center;
+    text-shadow: gray;
+    text-decoration: ThreeDDarkShadow;
+}
+.secondMain {
+    border-radius: 20px;
+    margin-left: auto;
+    margin-top: 30pt;
+    margin-right: auto;
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: 4pt;
+    width: 800pt;
+    overflow: hidden;
+    height: max-content;
+}
+body {
+    background-image: url("img/Homework4/background.png");
+    background-repeat: repeat;
+}
+body div h1 {
+    position: relative;
+    top: -10pt;
+    margin-left: 10pt;
+    margin-bottom: 2em;
+    font-size: 48pt;
+    color: red;
+}
+.belowPoster {
+    padding-left: 15pt;
+    padding-right: 15pt;
+    background-color: rgb(154,191,91);
+    border-top-right-radius: 20pt;
+    max-height: fit-content;
+}
+.leftSection {
+    float: left;
+    height: max-content;
+}
+
+.rightSection {
+
+    float: right;
+    width: 250pt;
+
+    background-color: rgb(154,191,91);
+
+}
+.fill {
+    background-color: rgb(154,191,91);
+    float: right;
+}
+
+.commentSection {
+    float: left;
+    width: 550pt;
+    clear: right;
+}
+.comment {
+    width: 200pt;
+    height: 100pt;
+    border-style: groove;
+    border-color: gray;
+    background-color: rgb(233,223,148);
+    border-radius: 10px;
+    font-size: 8pt;
+    font-weight: bold;
+    border-width: 2px;
+    margin: 20px;
+
+}
+.cmt {
+    float: left;
+    margin-left: 10pt;
+}
+.commentor {
+
+    width: 200pt;
+    margin: 20px;
+}
+.banner {
+    background-image: url("img/Homework4/rbg.png");
+    -o-background-size: 550pt;
+    background-repeat: repeat;
+    height: 63pt;
+    border-top-left-radius: 20px;
+    width: 550pt;
+}
+.pageNum {
+    float: right;
+    width: 100%;
+    background-color: rgb(154,191,91);
+
+}
+.pn {
+   text-align: center;
+}
+.validators {
+    float: right;
+   margin-top: -55pt;
+    margin-bottom: 10pt;
+}
+
+.sectionC {
+  float: left;
+}
