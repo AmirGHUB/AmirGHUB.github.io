@@ -13,6 +13,10 @@
     width: 250pt;
     border-top-right-radius: 10pt;
 }
+body dt {
+    font-weight: bold;
+    margin: 5pt;
+}
 
 .overview {
     height: content-box;
