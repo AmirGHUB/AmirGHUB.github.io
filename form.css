@@ -1,0 +1,11 @@
+fieldset {
+    background-color: cornflowerblue;
+    width: fit-content;
+    height: fit-content;
+}
+legend {
+    background-color: white;
+}
+button {
+   margin: revert;
+}
