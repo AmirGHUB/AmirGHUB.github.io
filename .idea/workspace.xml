@@ -3,37 +3,22 @@
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutMe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/form.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/banner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/bannerbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/critic.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/fresh.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/overview.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/rbg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/rotten.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/rottenbig.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/tmnt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/w3c-css.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/w3c-html.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Homework4/w3c-xhtml.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/deadpoolHappy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/h1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/new.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/picc.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pie.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/pie_bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/sadDeadpool.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/tile-wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movie.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myCss.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pie.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmnt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/javaScript Labs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/HomeCss.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/HomeCss.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/clickMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/clickMe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/decorateMyText.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/decorateMyText.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/decoratemytext.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/decoratemytext.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/decoratemytext.js" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/decoratemytext.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/img/JavaScriptHome.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/img/JavaScriptHome.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/img/a1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/img/a1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/img/calc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/img/calc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/img/decorated.gif" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/img/decorated.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/tip.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/tip.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/javaScript Labs/web/tipStyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs/web/tipStyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTML and CSS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HTML and CSS/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583481701742</updated>
       <workItem from="1583481710217" duration="1979000" />
-      <workItem from="1583768770290" duration="292000" />
+      <workItem from="1583768770290" duration="698000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
