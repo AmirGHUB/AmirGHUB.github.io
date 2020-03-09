@@ -1,0 +1,34 @@
+input {
+    width: 50pt; margin-left: 160pt; margin-top: 20pt;
+}
+body img {
+    margin-left: 150pt;
+    margin-top: 30pt;
+}
+#label {
+    font-size: 20pt;
+    display: inline;
+    width: 100pt
+}
+#lable {
+    font-size: 20pt;
+    display: inline;
+    width: 100pt;
+}
+hr {
+    margin-top: 30pt;
+    margin-left: 150pt;
+    margin-right: 150pt;
+}
+button {
+    margin-left: 160pt;
+    margin-top: 30pt;
+}
+#st {
+    margin-top: 20pt;
+    margin-left: 160pt;
+}
+#result {
+     margin-left: 160pt;
+    margin-top: 15pt;
+}
