@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/JS/decorate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JS/img/hundred-dollar-bill.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccount/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankAccount/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModularTimer1/ModularTimer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ModularTimer1/timer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/decorateMyText.html" beforeDir="false" afterPath="$PROJECT_DIR$/JS/decorateMyText.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JS/decoratemytext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +22,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -69,7 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583481701742</updated>
       <workItem from="1583481710217" duration="1979000" />
-      <workItem from="1583768770290" duration="12760000" />
+      <workItem from="1583768770290" duration="22185000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
@@ -106,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583792004246</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="updated">
+      <created>1583856703261</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583856703261</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,21 +125,22 @@
     <MESSAGE value="small change" />
     <MESSAGE value="common commit" />
     <MESSAGE value="new lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="new lab" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1583792003946">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1583856702890">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1583792003946" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1583856702890" />
     <state x="192" y="23" key="SettingsEditor" timestamp="1582909057540">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582909057540" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1583792016875">
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1583856713228">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1583792016875" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1583856713228" />
     <state x="1802" y="-181" key="com.intellij.ide.util.TipDialog" timestamp="1583481712537">
       <screen x="1366" y="-424" width="1920" height="1057" />
     </state>
@@ -143,5 +153,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="112" y="13" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1583525666534" />
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1583965299957">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="348" y="92" width="670" height="676" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1583965299957" />
   </component>
 </project>
