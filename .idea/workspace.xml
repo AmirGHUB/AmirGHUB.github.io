@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BankAccount/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankAccount/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModularTimer1/ModularTimer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ModularTimer1/timer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583481701742</updated>
       <workItem from="1583481710217" duration="1979000" />
-      <workItem from="1583768770290" duration="22185000" />
+      <workItem from="1583768770290" duration="26467000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
@@ -115,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583856703261</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="updates new labs">
+      <created>1583966767578</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583966767579</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,21 +130,22 @@
     <MESSAGE value="common commit" />
     <MESSAGE value="new lab" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="updates new labs" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates new labs" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1583856702890">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1583966767221">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1583856702890" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1583966767221" />
     <state x="192" y="23" key="SettingsEditor" timestamp="1582909057540">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582909057540" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1583856713228">
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1583966778131">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1583856713228" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1583966778131" />
     <state x="1802" y="-181" key="com.intellij.ide.util.TipDialog" timestamp="1583481712537">
       <screen x="1366" y="-424" width="1920" height="1057" />
     </state>

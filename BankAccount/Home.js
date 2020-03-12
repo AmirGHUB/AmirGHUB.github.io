@@ -1,23 +1,26 @@
-const AccountList= [];
-let Attc;
-const module =( function() {
-    let Account = function () {
-        let name = document.getElementById("actName").value;
-        let balance = document.getElementById("bal").value;
-        Attc = {AccountName: name, AccountBalance: balance};
-        AccountList.push(Account);
 
-        return display;
-    };
-    let display = function () {
+const module = function() {
+    var name = document.getElementById("actName").value;
+    var balance = document.getElementById("bal").value;
+    var AccountList= [];
+    var Attc;
+    create();
+
+
+         function create(){
+            Attc = {AccountName: name, AccountBalance: balance};
+            AccountList.push(Attc);
+            return display();
+        }
+        function  display() {
          let ft = document.getElementById("t");
-         for(Account in AccountList){
-             ft.value  = "Account Name:" + Attc.AccountName + " " + "Account Balance:" + Attc.AccountBalance;
-         }
 
-    };
-    return Account;
-})();
+         for(Attc in AccountList){
+             ft.value  = "Account Name:\t" + Attc.AccountName + "\t" + "Account Balance:\t" + Attc.AccountBalance + "\n";
+         }
+        }
+};
+
 window.onload = function() {
     document.getElementById("add").onclick = module;
 };
