@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MouseMaze/maze.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MouseMaze/maze.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/AmirGHUB.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AmirGHUB.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MouseMaze/maze.html" beforeDir="false" afterPath="$PROJECT_DIR$/MouseMaze/maze.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MouseMaze/maze.js" beforeDir="false" afterPath="$PROJECT_DIR$/MouseMaze/maze.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +70,7 @@
       <updated>1583481701742</updated>
       <workItem from="1583481710217" duration="1979000" />
       <workItem from="1583768770290" duration="26618000" />
-      <workItem from="1584040870607" duration="4586000" />
+      <workItem from="1584040870607" duration="8906000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
@@ -131,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583974675733</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="mouse maze project under progress">
+      <created>1584067805412</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1584067805412</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,21 +148,22 @@
     <MESSAGE value="updated" />
     <MESSAGE value="updates new labs" />
     <MESSAGE value="minor changes but ban class no finished" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor changes but ban class no finished" />
+    <MESSAGE value="mouse maze project under progress" />
+    <option name="LAST_COMMIT_MESSAGE" value="mouse maze project under progress" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1583974675449">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584067804874">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1583974675449" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584067804874" />
     <state x="192" y="23" key="SettingsEditor" timestamp="1582909057540">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582909057540" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1583974781539">
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584067817895">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1583974781539" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584067817895" />
     <state x="310" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1584040875898">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
