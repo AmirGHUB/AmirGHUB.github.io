@@ -1,27 +1,53 @@
-$(document).ready(function () {
-   let start = 0;
-   let end  = 0;
+$(function(){
+    "use strict";
 
-   $("#start").click( function () {
-    start = 1;
-    end = 0;
-    $(".boundary").css("background-color","white");
+    $("div#emo").css("display", "none");
+    let isStart = false;
 
-    if(start ===1){
-       $(".boundary").mouseover( function () {
-            $(".boundary").css("background-color","red");
-            $("#status").replaceWith("<h1>you lost plaese try again by pressing S</h1>");
-       });
-        if($(".boundary").css("background-color")!= "red"){
-            $("#end").click( function () {
-                $("#status").replaceWith("<h1>you won play again by pressing S</h1>");
-                $(".boundary").css("background-color","white");
-            })
+    $( "#maze .boundary" ).mouseover(()=> {
+        if(isStart) {
+            isStart = false;
+            $(".boundary").addClass('youlose');
+            $("#status").text("You loose!!");
+            $("div#emo").css("display", "block");
+            $("div#emo #emoji").attr("src","images/fail.png");
         }
-        // $("#body").mouseover( function () {
-        //         //     $(".boundary").css("background-color","red");
-        //         //     $("#status").replaceWith("<h1>you lost plaese try again by pressing S / don't go outside the maz</h1>");
-        //         // });
+    });
+
+    $( ".boundary" ).mouseleave(()=> {
+        if (isStart) {
+            $("div#emo").css("display", "none");
+            $(".boundary").removeClass('youlose');
+        }
+    });
+
+    $("#start").click(startGame);
+
+    $("#end").mouseover(()=>{
+        if (isStart) {
+            $("div#emo #emoji").attr("src","images/win.png");
+            $("#status").text("You win!:]");
+            isStart = false;
+            $("div#emo").css("display", "block");
+        }
+    });
+
+    $("#maze").mouseleave(gameOver);
+
+    function startGame() {
+        isStart = true;
+        $("#status").text("GOOD LUCK!!!");
+        $(".boundary").removeClass('youlose');
+        $("div#emo").css("display", "none");
     }
-   });
+    function gameOver() {
+        if(isStart) {
+            isStart = false;
+            $(".boundary").addClass('youlose');
+            $("#status").text("You loose!!");
+            $("div#emo").css("display", "block");
+            $("div#emo #emoji").attr("src","images/fail.png");
+        }
+    }
+
 });

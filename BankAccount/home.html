@@ -1,15 +1,24 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Account Page</title>
-    <script src="Home.js"></script>
+    <title>Text Decorator</title>
+
+    <script src="Home.js" type="text/javascript"></script>
 </head>
 <body>
-     <label>First Name: <input id="actName" type="text" name="actN"></label><br><br>
-     <label>Balance:<input id="bal" type="number" name="bn"> </label><br><br>
-     <button id="add">Create new account</button><br><br>
-     <label><textarea id="t" name="ta" style="width: 350pt; height: 100pt"></textarea></label>
+<fieldset style="width:280px;">
+    <legend >Create Account</legend>
 
+    <label>Account Type
+        <input type="text"  id="accountType"  required></label><span id="accounttypeerror"></span>
+    <br>
+    <label>Deposit
+        <input type="text"  id="deposit"  required></label><span id="depositeerror"></span>
+    <p>
+        <input type="submit" value="Create Account !"id="createAccount"/>
+    </p>
+    <textarea  rows="4" cols="60"   id="areaID"></textarea>
+
+</fieldset>
 </body>
 </html>

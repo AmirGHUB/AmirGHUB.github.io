@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/puzzle/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/fifteen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/fifteen.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/fifteen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/testing.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BankAccount/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MouseMaze/maze.html" beforeDir="false" afterPath="$PROJECT_DIR$/MouseMaze/maze.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MouseMaze/maze.js" beforeDir="false" afterPath="$PROJECT_DIR$/MouseMaze/maze.js" afterDir="false" />
     </list>
@@ -20,8 +27,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,19 +50,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/JS/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/puzzle" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JS/img" />
-      <recent name="$PROJECT_DIR$/ASCII Animation" />
-      <recent name="$PROJECT_DIR$/HTML and CSS/JS" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/exercise" />
       <recent name="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/puzzle" />
+      <recent name="$PROJECT_DIR$/JS/img" />
+      <recent name="$PROJECT_DIR$/ASCII Animation" />
+      <recent name="$PROJECT_DIR$/HTML and CSS/JS" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -70,7 +78,9 @@
       <updated>1583481701742</updated>
       <workItem from="1583481710217" duration="1979000" />
       <workItem from="1583768770290" duration="26618000" />
-      <workItem from="1584040870607" duration="8906000" />
+      <workItem from="1584040870607" duration="8953000" />
+      <workItem from="1584202056925" duration="1238000" />
+      <workItem from="1584319794152" duration="1725000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
@@ -135,13 +145,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584067805412</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="minor update on maze problem">
+      <created>1584081267174</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1584081267174</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="MAXIMUM_HISTORY_ROWS" value="2000" />
     <MESSAGE value="small change" />
     <MESSAGE value="common commit" />
     <MESSAGE value="new lab" />
@@ -149,34 +167,36 @@
     <MESSAGE value="updates new labs" />
     <MESSAGE value="minor changes but ban class no finished" />
     <MESSAGE value="mouse maze project under progress" />
-    <option name="LAST_COMMIT_MESSAGE" value="mouse maze project under progress" />
+    <MESSAGE value="minor update on maze problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update on maze problem" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584067804874">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584081266751">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584067804874" />
-    <state x="192" y="23" key="SettingsEditor" timestamp="1582909057540">
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584081266751" />
+    <state x="192" y="23" key="SettingsEditor" timestamp="1584202129949">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582909057540" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584067817895">
+    <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584202129949" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584081276813">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584067817895" />
-    <state x="310" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1584040875898">
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584081276813" />
+    <state x="310" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1584202056961">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="310" y="177" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584040875898" />
+    <state x="310" y="177" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1584202056961" />
     <state x="1802" y="-181" key="com.intellij.ide.util.TipDialog/1366.-424.1920.1057/0.23.1366.696@0.23.1366.696" timestamp="1583481712537" />
     <state width="600" height="424" key="javadoc.popup" timestamp="1583770144707">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="600" height="424" key="javadoc.popup/0.0.1366.768@0.0.1366.768" timestamp="1583770144707" />
-    <state x="112" y="13" key="new project wizard" timestamp="1583525666534">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="1523" y="-429" key="new project wizard" timestamp="1584255581305">
+      <screen x="1366" y="-447" width="1920" height="1080" />
     </state>
     <state x="112" y="13" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1583525666534" />
+    <state x="1523" y="-429" key="new project wizard/1366.-447.1920.1080/0.23.1366.745@1366.-447.1920.1080" timestamp="1584255581305" />
     <state x="348" y="92" width="670" height="676" key="search.everywhere.popup" timestamp="1583965299957">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
