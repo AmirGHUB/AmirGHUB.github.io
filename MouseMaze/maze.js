@@ -5,6 +5,7 @@ $(function(){
     let isStart = false;
 
     $( "#maze .boundary" ).mouseover(()=> {
+
         if(isStart) {
             isStart = false;
             $(".boundary").addClass('youlose');
@@ -12,6 +13,7 @@ $(function(){
             $("div#emo").css("display", "block");
             $("div#emo #emoji").attr("src","images/fail.png");
         }
+
     });
 
     $( ".boundary" ).mouseleave(()=> {
