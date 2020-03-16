@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/puzzle/W3C_valid.svg_.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/js.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/w3c-css.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/w3c-html.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/w3c-xhtml.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/puzzle/fifteen.html" beforeDir="false" afterPath="$PROJECT_DIR$/puzzle/fifteen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +87,7 @@
       <workItem from="1584040870607" duration="8953000" />
       <workItem from="1584202056925" duration="1238000" />
       <workItem from="1584319794152" duration="3152000" />
-      <workItem from="1584391317277" duration="1453000" />
+      <workItem from="1584391317277" duration="1685000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
@@ -173,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584322199473</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Completed the lap projects">
+      <created>1584394092597</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1584394092597</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,17 +190,18 @@
     <MESSAGE value="mouse maze project under progress" />
     <MESSAGE value="minor update on maze problem" />
     <MESSAGE value="commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
+    <MESSAGE value="Completed the lap projects" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the lap projects" />
   </component>
   <component name="WindowStateProjectService">
     <state x="283" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584322835921">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="283" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1584322835921" />
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584322198937">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584394092021">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584322198937" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584394092021" />
     <state width="219" height="498" key="HiddenNamespacesPopup" timestamp="1584322722162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -209,10 +210,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584202129949" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584322345659">
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584394107152">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584322345659" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584394107152" />
     <state x="551" y="155" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584322598407">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
