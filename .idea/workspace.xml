@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MouseMaze/maze.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MouseMaze/maze.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MouseMaze/maze.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MouseMaze/maze.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -90,7 +91,7 @@
       <workItem from="1584040870607" duration="8953000" />
       <workItem from="1584202056925" duration="1238000" />
       <workItem from="1584319794152" duration="3152000" />
-      <workItem from="1584391317277" duration="2847000" />
+      <workItem from="1584391317277" duration="3078000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
@@ -204,13 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584395473108</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="mouse maze deleted">
+      <created>1584395695172</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1584395695172</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="2000" />
     <MESSAGE value="small change" />
     <MESSAGE value="common commit" />
@@ -231,10 +240,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="283" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1584322835921" />
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584395472806">
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584395694832">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584395472806" />
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584395694832" />
     <state width="219" height="498" key="HiddenNamespacesPopup" timestamp="1584322722162">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -247,10 +256,10 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584202129949" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584395555924">
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584395704979">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584395555924" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584395704979" />
     <state x="551" y="155" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584322598407">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
