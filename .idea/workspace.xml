@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1daf474b-d592-49b1-8bda-88a1713b4d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/puzzle/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/fifteen.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/fifteen.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/fifteen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/puzzle/testing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/W3C_valid.svg_.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/w3c-css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/w3c-html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/puzzle/w3c-xhtml.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankAccount/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankAccount/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/BankAccount/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MouseMaze/maze.html" beforeDir="false" afterPath="$PROJECT_DIR$/MouseMaze/maze.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MouseMaze/maze.js" beforeDir="false" afterPath="$PROJECT_DIR$/MouseMaze/maze.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/puzzle/fifteen.html" beforeDir="false" afterPath="$PROJECT_DIR$/puzzle/fifteen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,20 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,6 +57,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -55,15 +68,15 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/exercise" />
-      <recent name="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/puzzle" />
       <recent name="$PROJECT_DIR$/JS/img" />
       <recent name="$PROJECT_DIR$/ASCII Animation" />
       <recent name="$PROJECT_DIR$/HTML and CSS/JS" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/exercise" />
+      <recent name="$PROJECT_DIR$/HTML and CSS/JavaScriptLabs" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -80,7 +93,8 @@
       <workItem from="1583768770290" duration="26618000" />
       <workItem from="1584040870607" duration="8953000" />
       <workItem from="1584202056925" duration="1238000" />
-      <workItem from="1584319794152" duration="1725000" />
+      <workItem from="1584319794152" duration="3152000" />
+      <workItem from="1584391317277" duration="1453000" />
     </task>
     <task id="LOCAL-00001" summary="small change">
       <created>1583517006906</created>
@@ -152,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584081267174</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="commit1">
+      <created>1584322199473</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584322199473</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,21 +189,34 @@
     <MESSAGE value="minor changes but ban class no finished" />
     <MESSAGE value="mouse maze project under progress" />
     <MESSAGE value="minor update on maze problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="minor update on maze problem" />
+    <MESSAGE value="commit1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584081266751">
+    <state x="283" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584322835921">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584081266751" />
+    <state x="283" y="51" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1584322835921" />
+    <state x="277" y="0" key="CommitChangelistDialog2" timestamp="1584322198937">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="277" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1584322198937" />
+    <state width="219" height="498" key="HiddenNamespacesPopup" timestamp="1584322722162">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="219" height="498" key="HiddenNamespacesPopup/0.0.1366.768@0.0.1366.768" timestamp="1584322722162" />
     <state x="192" y="23" key="SettingsEditor" timestamp="1584202129949">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="192" y="23" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1584202129949" />
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584081276813">
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2" timestamp="1584322345659">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584081276813" />
+    <state x="283" y="124" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1584322345659" />
+    <state x="551" y="155" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1584322598407">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="551" y="155" key="com.intellij.database.view.ui.DbObjectDialog/0.0.1366.768@0.0.1366.768" timestamp="1584322598407" />
     <state x="310" y="177" key="com.intellij.ide.util.TipDialog" timestamp="1584202056961">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
