@@ -42,6 +42,7 @@ $(function(){
         $(".boundary").removeClass('youlose');
         $("div#emo").css("display", "none");
     }
+    
     function gameOver() {
         if(isStart) {
             isStart = false;
@@ -51,5 +52,7 @@ $(function(){
             $("div#emo #emoji").attr("src","images/fail.png");
         }
     }
+    
+    
 
 });
